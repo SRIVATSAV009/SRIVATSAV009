@@ -92,9 +92,9 @@ Commit changes
 
 # 📊 GitHub Analytics
 
-![Srivatsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=tokyonight)
+![Srivatsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIVATSAV009&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIVATSAV009&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRIVATSAV009&theme=tokyo-night)
 
