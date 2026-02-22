@@ -90,11 +90,12 @@ Commit changes
 
 ---
 
-# 📊 GitHub Analytics
 
-![Srivatsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIVATSAV009&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SRIVATSAV009&theme=github-dark&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRIVATSAV009&theme=tokyo-night)
 
