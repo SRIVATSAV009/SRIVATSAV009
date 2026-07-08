@@ -46,8 +46,7 @@ I build scalable, production-grade solutions on the Salesforce platform — from
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIVATSAV009&layout=compact&theme=tokyonight" height="165"/>
-
+![GitHub Metrics](./github-metrics.svg)
 ---
 
 ### 📫 Connect With Me
