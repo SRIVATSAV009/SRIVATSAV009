@@ -1,130 +1,57 @@
+### 👋 Hi, I'm Sai Srivatsav Dharini
 
-# 👋 Hi, I'm Sai Srivatsav Dharini
+<img src="https://komarev.com/ghpvc/?username=SRIVATSAV009&label=PROFILE+VIEWS&style=for-the-badge&color=00A1E0" alt="profile views"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SRIVATSAV009&color=blue&style=for-the-badge)
+### 🚀 Salesforce Developer | Health Cloud | Apex & LWC | Systems Integration
 
-## 🚀 Senior Data Engineer | Cloud-Native | Distributed Systems | AI-Augmented Platforms
-
-I design and build scalable, production-grade, cloud-native data platforms across AWS, Azure, and GCP.  
-Specialized in distributed processing, real-time ingestion, and modern lakehouse architectures.
+I build scalable, production-grade solutions on the Salesforce platform — from custom Apex business logic and Lightning Web Components to guided automation with Flow and OmniStudio, and secure integrations with external systems.
 
 ---
 
-# 🌍 About Me
+### 🧑‍💻 About Me
 
-- 🔹 4+ years of experience in Data Engineering & Analytics  
-- 🔹 Expertise in AWS, Azure & Snowflake ecosystems  
-- 🔹 Strong in Spark, PySpark, Delta Lake & distributed systems  
-- 🔹 Experience in Financial & Healthcare domains  
-- 🔹 Passionate about scalable, fault-tolerant data architectures  
-- 🔹 Focused on AI-integrated data engineering workflows  
-
----
-
-# 🛠️ Core Data Engineering Stack
-
-## ☁️ Cloud Platforms
-Commit changes
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+- 🔹 Salesforce Developer with hands-on experience building end-to-end solutions on **Health Cloud**
+- 🔹 Strong in **Apex**, **Lightning Web Components (LWC)**, **Flow**, and **OmniStudio**
+- 🔹 Experience integrating Salesforce with external systems via REST/SOAP APIs, Named Credentials, and **FHIR**
+- 🔹 Background in cloud data engineering (AWS, Azure) brings a systems-level perspective to platform architecture
+- 🔹 Focused on secure, well-tested, and maintainable declarative + programmatic solutions
+- 🔹 Interested in healthcare and regulated-industry Salesforce implementations
 
 ---
 
-## 🔄 Data Processing & Lakehouse
+### 🛠️ Core Salesforce Stack
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge)
+#### ☁️ Platform
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Health%20Cloud-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Experience%20Cloud-1798C1?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Service%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
----
+#### ⚡ Development
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Lightning%20Web%20Components-FFB75D?style=for-the-badge&logo=salesforce&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SOQL%2FSOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-## 🗄️ Data Warehousing & Analytics
+#### 🔄 Automation & Low-Code
+<img src="https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/OmniStudio-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/OmniScript-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/DataRaptor-7C3AED?style=for-the-badge"/>
 
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+#### 🔌 Integration
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/SOAP%20API-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Named%20Credentials-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/FHIR%20%2F%20HL7-B45309?style=for-the-badge"/> <img src="https://img.shields.io/badge/OAuth2-B45309?style=for-the-badge"/> <img src="https://img.shields.io/badge/AWS%20Textract-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
----
+#### 🧰 DevOps & Tooling
+<img src="https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-## 🔁 Streaming & Orchestration
+#### 🔐 Security & Architecture
+<img src="https://img.shields.io/badge/Permission%20Sets-374151?style=for-the-badge"/> <img src="https://img.shields.io/badge/Profiles-374151?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sharing%20Rules-374151?style=for-the-badge"/> <img src="https://img.shields.io/badge/Field%20Level%20Security-374151?style=for-the-badge"/>
 
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![AWS Kinesis](https://img.shields.io/badge/AWS_Kinesis-FF9900?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![AWS Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF4F8B?style=for-the-badge)
+#### ☁️ Cloud & Data (background)
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 ---
 
-## 💻 Programming & Querying
+### 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIVATSAV009&layout=compact&theme=tokyonight" height="165"/>
 
 ---
 
-## 🧰 DevOps & Infrastructure
+### 📫 Connect With Me
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivatsavd)
 
----
-
-# 🏗️ Architecture Specialization
-
-- Serverless ETL & ELT pipelines  
-- Lakehouse (Bronze / Silver / Gold) Architecture  
-- Incremental & CDC ingestion patterns  
-- Near real-time streaming pipelines  
-- Distributed Spark optimization  
-- Columnar storage (Parquet / Delta)  
-- Data contracts & governance  
-- Infrastructure as Code (IaC)  
-- AI & LLM integration in data workflows  
-
----
-
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SRIVATSAV009&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SRIVATSAV009&theme=github-dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRIVATSAV009&theme=tokyo-night)
-
----
-
-# 🚀 Currently Building
-
-- 🔹 Real-time Retail Analytics Platform  
-- 🔹 AI-Augmented Data Pipelines  
-- 🔹 Snowflake Lakehouse Implementations  
-- 🔹 End-to-End Cloud Data Engineering Projects  
-
----
-
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dsaisrivatsav/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisrivatsavd@gmail.com)
-
----
-
-# ⚡ Engineering Philosophy
-
-> Build scalable.  
-> Automate everything.  
-> Optimize performance.  
-> Design for failure.  
-> Think distributed.
-
----
-
-⭐ If you like building scalable data systems, let’s connect.
+</details>
